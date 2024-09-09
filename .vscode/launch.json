@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/bakou/holbertonschool-Fix_My_Code_Challenge-1/challenge~",
-      "program": "c:/Users/bakou/holbertonschool-Fix_My_Code_Challenge-1/challenge~/build/Debug/outDebug",
+      "cwd": "c:/Users/bakou/holbertonschool-Fix_My_Code_Challenge-1/challenge",
+      "program": "c:/Users/bakou/holbertonschool-Fix_My_Code_Challenge-1/challenge/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
